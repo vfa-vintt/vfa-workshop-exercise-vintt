@@ -1,5 +1,5 @@
 # vfa-workshop-exercise-vintt
-Bài tập 1_Vi
+Bài tập 1_VFA
 
 First line
 
